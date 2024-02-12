@@ -16,3 +16,5 @@ Bu eğitimde işleyeceğimiz konular şunlardır:
 Bu depoda eğitimde kullanılacak materyallere ulaşabilirsiniz. 👇🏻 
 
 - [Rating Products](https://github.com/melisacevik/Measurement-Problems/blob/master/rating.py)
+- [Sorting Products](https://github.com/melisacevik/Measurement-Problems/blob/master/sorting.py)
+- [Sorting Reviews](https://github.com/melisacevik/Measurement-Problems/blob/master/sorting_reviews.py)
